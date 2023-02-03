@@ -1,0 +1,26 @@
+{
+  "name": "solid-pocketbase-hooks",
+  "description": "Solid-js hooks for PocketBase",
+  "version": "0.1.0",
+  "keywords": [
+    "solidjs",
+    "pocketbase",
+    "hooks"
+  ],
+  "module": "index.ts",
+  "type": "module",
+  "author": "Kirill Chuprov",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kirill-dev-pro/solid-pocketbase-hooks"
+  },
+  "main": "index.ts",
+  "devDependencies": {
+    "bun-types": "^0.4.0"
+  },
+  "dependencies": {
+    "pocketbase": "^0.10.1",
+    "solid-js": "^1.6.9"
+  }
+}
